@@ -1,5 +1,6 @@
 # Port_scan
 port scan PYTHON
+Libraries:  socket and threading
 
 Three Python scanners have been created, ranging from the simplest to the most advanced. We transition from a basic scanner to a more advanced one, enabling faster scanning. Enjoy!
 
